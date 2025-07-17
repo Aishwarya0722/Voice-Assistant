@@ -49,18 +49,9 @@ python voice_assistant.py
    - “Search dogs”
    - “Stop” to exit
 
-## 🎥 Demo Video
-
-> (Insert your video link here – YouTube, Drive, etc.)
 
 ## 📝 Author
-
-**Your Name**  
+## Satti Sai Aishwarya ##
 Python Programming Intern at [Oasis Infobyte](https://www.oasisinfobyte.com/)
 
-## 🔗 LinkedIn Share Hashtags
 
-Use these when posting your project:
-```
-#oasisinfobyte #oasisinfobytefamily #internship #python
-```
